@@ -25,7 +25,7 @@ Componetizar o projeto seguindo os padrões:
 Cuidar dos estados dos componentes, das requsições HTTP de cada Rota da aplicação e dos ciclos de vida dos componentes utilizando React Hooks e abordagem funcional.
 
 Os seguintes requisitos também devem ser cumpridos:
-> **[Create React App](https://github.com/facebook/create-react-app)**
+> * **[Create React App](https://github.com/facebook/create-react-app)**
 > * Ser desenvolvido utilizando abordagem funcional e React Hooks para gerenciamento de ciclo de vida e estados.
 > * Consumir os dados da Rest API, usando o [Fetch API](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch) do Javascript.
 > * Exibir os **posts** de todos os usuários na rota inicial */*. 
